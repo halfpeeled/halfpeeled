@@ -5,7 +5,7 @@
 - Book enthusiast
 - Person who enjoys making just about anything
 ## Projects I Am Working On:
-- [Digital Grind](digitalgrind.org): This is my personal sandbox and where I tend to host things I am working on.
+- [Digital Grind](https://digitalgrind.org): This is my personal sandbox and where I tend to host things I am working on.
 - [Pictured](https://github.com/halfpeeled/pictured): Lightweight invitation only social media app.
 - [Apocalypse Farm](https://github.com/ekstromm/CapstoneGame): Farming, community building, surviving the wastelands, and more!
 ## What I am Actively Hyped About:
